@@ -1,0 +1,8 @@
+.centered{
+    display:felx;
+    justify-content:center;
+    align-items:center;
+    height:50vh;
+    box-sizing: border-box;
+    border-radius:7rem;
+}
